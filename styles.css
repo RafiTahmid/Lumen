@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#btn-color{
+    background-color: #3271b3;
+}
+
+#text-card{
+    background-color: #3271b3;
+    height: 3px;
+}
+
+.rest-text-card{
+    background-color: lightgrey;
+    height: 3px;
+}
+
+#card-content{
+    margin-left: 100px;
+}
+
+#img-1 {
+    height: 100px;
+}
+
+.categories{
+    margin-left: 100px;
+    display: flex;
+    gap: 20px;
+    
+}
+
+.categories a{
+    text-decoration: none;
+}
+
+.card-shape{
+    margin-left: 100px;
+    height: 10rem;
+    width: 10rem;
+}
+
+.card-shape img{
+    width: 160px;
+}
