@@ -60,3 +60,31 @@
     height: 30px;
 }
 
+#webinar-card{
+    margin-left: 50px;
+    margin-right: 120px;
+}
+
+#webinar-join-btn{
+    color: white;
+    margin-top: 20px;
+    margin-left: 450px;
+    background-color: #3271b3;
+    border-radius: 10px;
+    padding: 10px 30px;
+    border: none;
+}
+
+#apply-btn{
+    color: white;
+    background-color: #3271b3;
+    border-radius: 10px;
+    padding: 10px 30px;
+    border: none;
+}
+
+.instructor{
+    margin-top: 100px;
+    padding: 70px;
+    background-color: whitesmoke;
+}
